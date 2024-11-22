@@ -31,11 +31,11 @@ sudo apt install clang make gcc
 ### Build Instructions:
 1. Clone the repository
 ```bash
-git clone ssh://git@focs.ji.sjtu.edu.cn:2222/ece482-24fa/SuvonovBunyod522370990020-p1.git
+git clone git@github.com:Bunyod-Suvonov/mumsh.git
 ```
 2. Navigate to the project directory and build the shell. You can use the Makefile:
 ```bash
-cd SuvonovBunyod522370990020-p1
+cd mumsh
 make
 ```
 This will generate two executables: mumsh and mumsh_memory_check.
@@ -51,7 +51,3 @@ Testing is important to ensure that the shell behaves correctly under various co
 
 The program is tested by school's online judge and got full scores for all testcases.
 
-
-## Contributing
-
-You are welcome to fork the repo, change/add code, and make a PR if you are interested in contributing
