@@ -1,6 +1,3 @@
-![push status](https://focs.ji.sjtu.edu.cn/git/ece482-24fa/SuvonovBunyod522370990020-p1/actions/workflows/push.yaml/badge.svg)
-![release status](https://focs.ji.sjtu.edu.cn/git/ece482-24fa/SuvonovBunyod522370990020-p1/actions/workflows/release.yaml/badge.svg)
-
 # Mum Shell
 
 ## Overview
