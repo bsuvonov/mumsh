@@ -28,7 +28,7 @@ sudo apt install clang make gcc
 ### Build Instructions:
 1. Clone the repository
 ```bash
-git clone git@github.com:Bunyod-Suvonov/mumsh.git
+git clone git@github.com:bsuvonov/mumsh.git
 ```
 2. Navigate to the project directory and build the shell. You can use the Makefile:
 ```bash
